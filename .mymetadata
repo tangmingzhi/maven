@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="tangkun_learn"
+  id="myeclipse.1381471300096"
+  context-root="/tangkun_learn"
+  j2ee-spec="5.0"
+  archive="tangkun_learn.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
